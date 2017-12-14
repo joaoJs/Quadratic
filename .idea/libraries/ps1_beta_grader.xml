@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ps1-beta-grader">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ps1-beta-grader.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
